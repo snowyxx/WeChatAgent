@@ -4,7 +4,7 @@ A ME-WeChat demo based on itchat
 ### Prerequests:
 
 - python 2.7
-- [itchat](https://github.com/littlecodersh/ItChat) install: `pip install -U itchat`
+- [itchat]. (https://github.com/littlecodersh/ItChat) install: `pip install -U itchat`
 
 
 ### Usage:
@@ -31,4 +31,6 @@ Welcome to fork and PR :)
 
 ### Screenshot:
 
-![screenshot](wechatagent_screenshot.gif)
+<img src="wechatagent_screenshot.gif" alt="" width="400px">
+<!-- ![screenshot](wechatagent_screenshot.gif) -->
+
