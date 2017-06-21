@@ -29,6 +29,10 @@ This is just a POC demo, it is far away to be an out-of-box program.
 
 Welcome to fork and PR :)
 
+### video
+
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=e03995n6h9q&tiny=0&auto=0" allowfullscreen></iframe>
+
 ### Screenshot:
 
 <img src="wechatagent_screenshot.gif" alt="" width="400px">
