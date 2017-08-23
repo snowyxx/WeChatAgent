@@ -4,7 +4,7 @@ A ME-WeChat demo based on itchat
 ### Prerequests:
 
 - python 2.7
-- [itchat]. (https://github.com/littlecodersh/ItChat) install: `pip install -U itchat`
+- [itchat](https://github.com/littlecodersh/ItChat) install: `pip install -U itchat`
 
 
 ### Usage:
